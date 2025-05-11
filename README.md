@@ -18,4 +18,4 @@ For the steps above, you will need:
 
 <table data-header-hidden data-full-width="false"><thead><tr><th width="300"></th><th></th></tr></thead><tbody><tr><td><ul><li>new LCD display</li><li>new LCD cable</li><li>2.5 mm Allen key</li></ul></td><td><p></p><div><figure><img src=".gitbook/assets/DSC_7009.JPG" alt=""><figcaption></figcaption></figure></div></td></tr></tbody></table>
 
-Let's continue with the first step, [removing the old display](prusa-research/replacing-the-display-and-lcd-cable-in-your-prusa-mini/remove-the-old-display.md).
+Let's continue with the first step, [removing the old display](prusa-research/replacing-lcd-screen-and-lcd-cable-in-your-prusa-mini/removing-the-old-lcd-display.md).

@@ -3,14 +3,14 @@
 ## Prusa Research
 
 * [Replacing the display and LCD cable in your Prusa MINI](README.md)
-  * [Remove the old display](prusa-research/replacing-the-display-and-lcd-cable-in-your-prusa-mini/remove-the-old-display.md)
-  * [Insert the new display](prusa-research/replacing-the-display-and-lcd-cable-in-your-prusa-mini/insert-the-new-display.md)
-  * [Mount the new display](prusa-research/replacing-the-display-and-lcd-cable-in-your-prusa-mini/mount-the-new-display.md)
-  * [Get access to the cable](prusa-research/replacing-the-display-and-lcd-cable-in-your-prusa-mini/get-access-to-the-cable.md)
-  * [Replace the old LCD cable](prusa-research/replacing-the-display-and-lcd-cable-in-your-prusa-mini/replace-the-old-lcd-cable.md)
-  * [Reconnect all moved parts](prusa-research/replacing-the-display-and-lcd-cable-in-your-prusa-mini/reconnect-all-moved-parts.md)
-  * [Test the new LCD display](prusa-research/replacing-the-display-and-lcd-cable-in-your-prusa-mini/test-the-new-lcd-display.md)
+  * [Remove the old display](prusa-research/replacing-lcd-screen-and-lcd-cable-in-your-prusa-mini/removing-the-old-lcd-display.md)
+  * [Insert the new display](prusa-research/replacing-lcd-screen-and-lcd-cable-in-your-prusa-mini/inserting-the-new-ldc-display.md)
+  * [Mount the new display](prusa-research/replacing-lcd-screen-and-lcd-cable-in-your-prusa-mini/mount-the-new-lcd-display.md)
+  * [Get access to the cable](prusa-research/replacing-lcd-screen-and-lcd-cable-in-your-prusa-mini/get-access-to-the-lcd-cable.md)
+  * [Replace the old LCD cable](prusa-research/replacing-lcd-screen-and-lcd-cable-in-your-prusa-mini/replace-the-old-lcd-cable.md)
+  * [Reconnect all moved parts](prusa-research/replacing-lcd-screen-and-lcd-cable-in-your-prusa-mini/reconnect-all-moved-parts.md)
+  * [Test the new LCD display](prusa-research/replacing-lcd-screen-and-lcd-cable-in-your-prusa-mini/test-the-new-lcd-diplay.md)
 
 ***
 
-* [Technical article](technical-article.md)
+* [SLA 3D printers in medical applications](sla-3d-printers-in-medical-applications.md)

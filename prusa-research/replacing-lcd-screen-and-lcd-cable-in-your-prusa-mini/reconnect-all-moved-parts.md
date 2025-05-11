@@ -16,4 +16,4 @@
 If you are struggling with putting back the enclosure lid, push gently on the power cable. The power cable is the most flexible.
 {% endhint %}
 
-&#x20;You have replaced the display and LCD cable on your printer. You should [test the new components](test-the-new-lcd-display.md) after replacing them.
+&#x20;You have replaced the display and LCD cable on your printer. You should [test the new components](test-the-new-lcd-diplay.md) after replacing them.
