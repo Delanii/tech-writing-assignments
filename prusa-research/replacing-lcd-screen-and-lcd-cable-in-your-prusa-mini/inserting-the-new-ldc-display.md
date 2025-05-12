@@ -14,4 +14,4 @@ Tighten the screws in a zig-zag order to prevent twisting the LCD board.
 
 * Put back the selection knob on the front side of the LCD enclosure. Push on the knob gently and rotate clockwise. Leave some slack to allow rotating the knob.
 
-You have put the new display in the LCD enclosure. Before replacing the LCD cable, you need to get access to the other end of the old LCD cable. Continue to the next page.
+You have put the new display in the LCD enclosure. In the next step, you can mount the new display on the printer.&#x20;

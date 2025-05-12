@@ -10,7 +10,7 @@ To replace the display and the LCD cable, you will have to go through the follow
 2. Insert the new display in the LCD enclosure.
 3. Mount the display back on the printer.
 4. Get access to the other side of the LCD cable.
-5. Replace the old LCD cable.
+5. Plug in the new LCD cable.
 6. Reconnect all loosened and removed parts.
 7. Test if the new display works.
 

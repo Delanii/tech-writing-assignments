@@ -4,12 +4,12 @@
 
 <figure><img src="../../.gitbook/assets/9712615fffb99a74_painted.jpeg" alt="" width="375"><figcaption></figcaption></figure>
 
-* Remove the screw holding the display in place.
+* Remove the screw holding the display enclosure in place.
 
 <figure><img src="../../.gitbook/assets/DSC_7015.JPG" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-If it's difficult to loosen the screw, flip the Allen key to use the longer end as leverage. When the screw is loose, switch back to the shorter end.&#x20;
+If it's difficult to loosen the screw, flip the Allen key to use the longer end as a leverage. When the screw is loosened, switch back to the shorter end.&#x20;
 {% endhint %}
 
 * Unplug the old LCD cable. If the LCD cable is holding tight, you can use the Allen key to carefully pry it out.

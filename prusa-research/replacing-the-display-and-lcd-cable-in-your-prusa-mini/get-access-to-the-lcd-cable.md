@@ -1,5 +1,6 @@
-# Get access to the cable
+# Get access to the LCD cable
 
+* Remove the top of the electronics enclosure.
 * Loosen the screws holding the electronics enclosure.
 
 <figure><img src="../../.gitbook/assets/ce9ee035275c7ac8_painted.jpeg" alt="" width="375"><figcaption></figcaption></figure>
@@ -17,9 +18,5 @@ Tilt the printer carefully to reach the second screw easier.
 
 | <p></p><div><figure><img src="../../.gitbook/assets/DSC_7044.JPG" alt=""><figcaption></figcaption></figure></div> | <p></p><div><figure><img src="../../.gitbook/assets/DSC_7045.JPG" alt=""><figcaption></figcaption></figure></div> |
 | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-
-* Remove the top of the electronics enclosure.
-
-<figure><img src="../../.gitbook/assets/DSC_7035.JPG" alt="" width="375"><figcaption></figcaption></figure>
 
 You should now have easy access to the LCD cable. Let's replace the cable in the next step.

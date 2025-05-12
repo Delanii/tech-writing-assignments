@@ -10,9 +10,11 @@ SLA printers create the solid layers from a liquid photopolymer resin. SLA [prin
 
 <figure><img src=".gitbook/assets/Digital-Light-Processing-DLP.png" alt=""><figcaption></figcaption></figure>
 
+Before the printed material can be used, it has to be washed to remove the remaining resin and cured. Furthermore, for medical applications, the resin material itself has to conform to medical material standards.
+
 ### Medical applications
 
-Stereolithography (SLA) 3D printing has gained attention in medicine due to its precision nd the ability to create complex geometries with a lot of detail. These attributes make SLA suitable for medical applications, from surgical planning and prosthetics to dental restoration.
+Stereolithography (SLA) 3D printing has gained attention in medicine due to its precision and the ability to create complex geometries with a lot of detail. These attributes make SLA suitable for medical applications, from surgical planning and prosthetics to dental restoration.
 
 One of the most impactful uses of SLA in healthcare is in the fabrication of patient-specific anatomical models. Derived from CT or MRI scans, these models enable surgeons to plan and simulate procedures with greater accuracy, reducing intraoperative uncertainty and enhancing patient outcomes. For example, SLA-printed models of vascular structures or bone fractures can help surgeons rehearse complex surgeries or determine feasibility before starting the surgery.
 
